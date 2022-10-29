@@ -1,6 +1,6 @@
 ## Olá! Me chamo Amanda Freitas👋
 
-  - 🌱 Atualmente estou estudando CSS, HTML e JavaScript
+  - 🌱 Atualmente estou estudando CSS, HTML,JavaScript e React
   - 😄 Pronouns: ela/dela
 
 <div align="center">
